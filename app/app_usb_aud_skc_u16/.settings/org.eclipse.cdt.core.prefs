@@ -1,9 +1,0 @@
-eclipse.preferences.version=1
-environment/project/com.xmos.cdt.toolchain.1920504559/XDE_BUILD/delimiter=\:
-environment/project/com.xmos.cdt.toolchain.1920504559/XDE_BUILD/operation=append
-environment/project/com.xmos.cdt.toolchain.1920504559/XDE_BUILD/value=true
-environment/project/com.xmos.cdt.toolchain.1920504559/XMOS_MODULE_PATH/delimiter=\:
-environment/project/com.xmos.cdt.toolchain.1920504559/XMOS_MODULE_PATH/operation=append
-environment/project/com.xmos.cdt.toolchain.1920504559/XMOS_MODULE_PATH/value=/home/simon/Downloads/xmos_support/libraries/lib_logging/lib_logging\:/home/simon/Downloads/xmos_support/libraries/lib_mic_array/lib_mic_array\:/home/simon/Downloads/xmos_support/libraries/lib_xassert/lib_xassert\:/home/simon/Downloads/xmos_support/modules/sc_adat/module_adat_rx\:/home/simon/Downloads/xmos_support/modules/sc_adat/module_adat_tx\:/home/simon/Downloads/xmos_support/modules/sc_usb_audio/module_dfu\:/home/simon/Downloads/xmos_support/modules/sc_i2c/module_i2c_shared\:/home/simon/Downloads/xmos_support/modules/sc_i2c/module_i2c_simple\:/home/simon/Downloads/xmos_support/modules/sc_i2c/module_i2c_single_port\:/home/simon/Downloads/xmos_support/modules/sc_util/module_locks\:/home/simon/Downloads/xmos_support/modules/sc_usb_audio/module_queue\:/home/simon/Downloads/xmos_support/modules/sc_spdif/module_spdif_rx\:/home/simon/Downloads/xmos_support/modules/sc_spdif/module_spdif_tx\:/home/simon/Downloads/xmos_support/modules/sc_usb_audio/module_usb_audio\:/home/simon/Downloads/xmos_support/modules/sc_usb_device/module_usb_device\:/home/simon/Downloads/xmos_support/modules/sc_usb_audio/module_usb_midi\:/home/simon/Downloads/xmos_support/modules/sc_usb/module_usb_shared\:/home/simon/Downloads/xmos_support/modules/sc_xud/module_xud
-environment/project/com.xmos.cdt.toolchain.1920504559/append=true
-environment/project/com.xmos.cdt.toolchain.1920504559/appendContributed=true
